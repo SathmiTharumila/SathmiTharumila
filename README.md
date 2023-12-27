@@ -5,7 +5,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathmitharumila&label=Profile%20views&color=0e75b6&style=flat" alt="sathmitharumila" /> </p>
 
-### About me
+### About me:
 - 🔭 I’m currently learning **OOP with java**
 
 - 👯 I’m an undergraduate at **SLIIT**
