@@ -1,3 +1,4 @@
+<p align="center"><img src = "https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=2000" height="150" width="150"/></p>
 <h1 align="center">Hi 👋, I'm Sathmi Tharumila</h1>
 <h3 align="center">Undergraduate student at SLIIT</h3>
 
